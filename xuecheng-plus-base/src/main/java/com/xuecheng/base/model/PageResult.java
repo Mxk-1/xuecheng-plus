@@ -9,6 +9,7 @@ import java.util.List;
 
 /**
  * 分页查询结构模型类
+ *
  * @author maxinkai
  * @date 2023/10/25 18:45
  **/
