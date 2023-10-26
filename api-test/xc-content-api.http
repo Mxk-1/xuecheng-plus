@@ -1,0 +1,12 @@
+### content_host
+
+POST {{content_host}}/content/course/list?pageNo=1&pageSize=10
+Content-Type: application/json
+
+{
+  "auditStatus": "",
+  "courseName": "人工智能",
+  "publishStatus": ""
+}
+
+<> 2023-10-26T104231.200.json
