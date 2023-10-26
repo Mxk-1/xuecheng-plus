@@ -38,6 +38,7 @@ public class CourseBaseInfoController {
     @ApiOperation("新增课程信息接口")
     @PostMapping("/course")
     public CourseBaseInfoDto createCourseBase(@RequestBody AddCourseDto addCourseDto) {
+        // todo 先固定写死
         Long companyId = 1232141425L;
         return courseBaseInfoService.createCourseBase(companyId, addCourseDto);
     }
