@@ -49,7 +49,7 @@ Content-Type: application/json
   "id": 40,
   "name": "SpringBoot",
   "users": "Spring Boot初学者",
-  "tags": "SpringBoot项目的快速构建",
+  "tags": "SpringMVC项目的快速构建",
   "mt": "1-3",
   "st": "1-3-2",
   "grade": "200003",
